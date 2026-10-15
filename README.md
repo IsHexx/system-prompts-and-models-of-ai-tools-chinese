@@ -30,6 +30,7 @@
 ├── Lovable/                      # Lovable AI助手文档
 ├── Manus Agent Tools & Prompt/   # Manus Agent的工具和提示词
 ├── Open Source prompts/          # 开源AI工具的提示词
+├── REA Creator/                  # REA Creator 逆向工程提示词
 └── v0 Prompts and Tools/         # v0的提示词和工具
 ```
 
