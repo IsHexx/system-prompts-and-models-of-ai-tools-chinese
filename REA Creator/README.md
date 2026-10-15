@@ -4,5 +4,6 @@
 
 - 来源：https://github.com/morluto/rea
 - 主文件：`REA_Creator_Complete_Prompts.md`（中英双语对照）
+- 英文原版：`REA_Creator_Complete_Prompts_EN.md`
 
 仅供学习研究使用。
